@@ -1,3 +1,4 @@
 # mergetestfoo
 bar
 bar
+baz
