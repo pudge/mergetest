@@ -1,1 +1,2 @@
 # mergetestfoo
+bar
